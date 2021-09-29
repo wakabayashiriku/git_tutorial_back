@@ -1,3 +1,5 @@
 <h1>チュートリアル</h1>
 
 git status
+
+git diff
